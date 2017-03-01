@@ -645,4 +645,6 @@ With a prefix argument, doesn't verify."
   "ignored-doc-string"
   database-summary-mode-menu)
 
+(provide 'db-summary)
+
 ;;; db-summary.el ends here
